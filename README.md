@@ -9,6 +9,7 @@
 * Luigi Ogassawara
 * João Ricardo
 * Jorge Croscob
+* Gabriel Fujihara
 
 ```
 nmp install bootstrap
